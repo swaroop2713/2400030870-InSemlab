@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+}
+nav a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #0366d6;
+}
+nav a:hover { text-decoration: underline; }
